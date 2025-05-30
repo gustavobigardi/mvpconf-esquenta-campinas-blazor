@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazorAppWeb", "BlazorAppWeb", "{179A8D70-C553-DA79-D4A2-C04570AD39D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWeb", "BlazorAppWeb\BlazorAppWeb\BlazorAppWeb.csproj", "{16CAE046-60A8-4ECB-92A1-6A114238D103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWeb.Client", "BlazorAppWeb\BlazorAppWeb.Client\BlazorAppWeb.Client.csproj", "{66828444-8F44-442D-80BF-7326DEA4E464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Debug|x64.Build.0 = Debug|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Debug|x86.Build.0 = Debug|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Release|x64.ActiveCfg = Release|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Release|x64.Build.0 = Release|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Release|x86.ActiveCfg = Release|Any CPU
+		{16CAE046-60A8-4ECB-92A1-6A114238D103}.Release|x86.Build.0 = Release|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Debug|x64.Build.0 = Debug|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Debug|x86.Build.0 = Debug|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Release|x64.ActiveCfg = Release|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Release|x64.Build.0 = Release|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Release|x86.ActiveCfg = Release|Any CPU
+		{66828444-8F44-442D-80BF-7326DEA4E464}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16CAE046-60A8-4ECB-92A1-6A114238D103} = {179A8D70-C553-DA79-D4A2-C04570AD39D2}
+		{66828444-8F44-442D-80BF-7326DEA4E464} = {179A8D70-C553-DA79-D4A2-C04570AD39D2}
+	EndGlobalSection
+EndGlobal
